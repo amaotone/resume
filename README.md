@@ -7,8 +7,9 @@
 |Name|鈴木天音（Amane Suzuki）|
 |Blog|[天色グラフィティ](https://amalog.hateblo.jp)|
 |Twitter|[@SakuEji](https://twitter.com/SakuEji)|
-|Kaggle|[Kaggle Master](https://kaggle.com/amaotone)|
-|AtCoder|[水色](https://atcoder.jp/users/amaotone)|
+|Kaggle|[@amaotone（Kaggle Master）](https://kaggle.com/amaotone)|
+|AtCoder|[@amaotone（水色）](https://atcoder.jp/users/amaotone)
+|SpeakerDeck|[@amaotone](https://speakerdeck.com/amaotone)|
 
 ## スキル
 ### 言語

@@ -15,9 +15,9 @@
 ### 言語
 
 - Python
-- Ruby
 - TypeScript
 - HTML/CSS/JavaScript
+- Ruby
 - SQL
 - (Go)
 - (Rust)

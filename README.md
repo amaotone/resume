@@ -118,6 +118,11 @@
 
 - 株式会社AppBrewでの受託分析
 
+### 作ったもの
+
+- [Among Us Note](https://aunote.site)
+  - Next.jsを使って3日間で作りました（[ブログ](https://amalog.hateblo.jp/entry/among-us-note-dev)）
+
 ### 発表したスライド
 
 - [さよならFlask ようこそFastAPI](https://speakerdeck.com/amaotone/goodbye-flask-welcome-fastapi)

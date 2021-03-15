@@ -121,9 +121,9 @@
 ### 作ったもの
 
 - [Among Us Note](https://aunote.site)
-  - Next.jsを使って3日間で作りました（[ブログ](https://amalog.hateblo.jp/entry/among-us-note-dev)）
+  - Next.js + Bulmaで作りました（所要期間3日, [ブログ](https://amalog.hateblo.jp/entry/among-us-note-dev)）
 - [一文一会](https://ichibunichie.com)
-  - Next.js + Tailwindcss + Firebaseで作りました
+  - Next.js + Tailwindcss + Firebaseで作りました（所要期間約2週間, [ブログ](https://amalog.hateblo.jp/entry/ichibunichie-dev)）
 
 ### 発表したスライド
 

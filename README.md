@@ -16,6 +16,7 @@
 
 - Python
 - TypeScript
+- C#
 - HTML/CSS/JavaScript
 - Ruby
 - SQL
@@ -103,6 +104,7 @@
 
 - 社外協業案件で、ヒューリスティックな最適化を実装
   - https://dena.ai/work8/
+  - https://dena.ai/story/kepco-lng-fired-pp-2/
 - 社内案件でレコメンドエンジンの改修・実装
 - サイドプロジェクト
   - [早稲田塾さんでのAI講義](https://twitter.com/wasedajuku1979/status/1295299970170384384?s=20)
